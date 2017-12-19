@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCPPatternWithJUnit</string>
+    <string name="username_error">Username should not empty</string>
+    <string name="password_error">Password should not empty</string>
+</resources>
